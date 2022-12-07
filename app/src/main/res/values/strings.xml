@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">JarviceApp</string>
+    <string name="welcome_messsage">Welcome!</string>
+    <string name="login_messsage">Please login first!</string>
+    <string name="username">username...</string>
+    <string name="password">password...</string>
+    <string name="tv_forgotten_password">Forgotten Password?</string>
+    <string name="login">Login</string>
+    <string name="login_messsage_method">Or Login With</string>
+    <string name="login_google">Continue with Google</string>
+    <string name="login_facebook">Continue with Facebook</string>
+    <string name="login_messsage_new_account">New to the app? Signup</string>
+    <string name="email">email...</string>
+    <string name="password_confirmation">confirmation password...</string>
+    <string name="signup_messsage_method">Or Signup With</string>
+    <string name="signup_messsage_account">Already have an account? Sign in</string>
+    <string name="signup_messsage">Please fill this form!</string>
+    <string name="signup">signup</string>
+    <string name="invalid_email">The email is not valid!</string>
+    <string name="invalid_password">Password must at least 6 or more</string>
+    <string name="invalid_confirmation_password">password does not match</string>
+    <string name="invalid_validation">please fill in the field correctly</string>
+    <string name="title_alert_dialog">Success</string>
+    <string name="message_alert_dialog">The account has been created successful!</string>
+    <string name="message_positive_button">next</string>
+    <string name="message_alert_dialog_login">Login success!</string>
+    <string name="empty_field">Empty field are not allowed!</string>
+    <string name="invalid_account">account not found</string>
+    <string name="facebook_app_id">3464430617126624</string>
+    <string name="facebook_client_token">a5575bfecce5c1411a009bb58597106b</string>
+    <string name="title_home">Home</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_bookmark">Bookmark</string>
+    <string name="title_profile">Profile</string>
+</resources>

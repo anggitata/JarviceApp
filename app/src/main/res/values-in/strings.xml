@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">JarviceApp</string>
+    <string name="welcome_messsage">Selamat Datang</string>
+    <string name="login_messsage">Silahkan untuk login terlebih dahulu!</string>
+    <string name="username">username...</string>
+    <string name="password">password...</string>
+    <string name="tv_forgotten_password">Lupa password?</string>
+    <string name="login">Login</string>
+    <string name="login_messsage_method">Pakai metode lain untuk login</string>
+    <string name="login_google">Lanjutkan dengan Google</string>
+    <string name="login_facebook">Lanjutkan dengan Facebook</string>
+    <string name="login_messsage_new_account">Belum memiliki akun? Signup</string>
+    <string name="email">email...</string>
+    <string name="password_confirmation">konfirmasi password...</string>
+    <string name="signup_messsage_method">Pakai metode lain untuk daftar</string>
+    <string name="signup_messsage_account">Sudah memiliki akun? signin</string>
+    <string name="signup_messsage">Yuk, buat akun Jarvice mu!</string>
+    <string name="signup">signup</string>
+    <string name="invalid_email">Email salah!</string>
+    <string name="invalid_password">Password harus berisi 6 karakter atau lebih</string>
+    <string name="invalid_confirmation_password">Password tidak sama</string>
+    <string name="invalid_validation">Silakan isi kolom dengan benar</string>
+    <string name="title_alert_dialog">Sukses</string>
+    <string name="message_alert_dialog">Akun berhasil dibuat!</string>
+    <string name="message_positive_button">Selanjutnya</string>
+    <string name="message_alert_dialog_login">Login Berhasil!</string>
+    <string name="empty_field">Silakan isi kolom yang kosong!</string>
+    <string name="invalid_account">Akun tidak ditemukan</string>
+    <string name="facebook_app_id">3464430617126624</string>
+    <string name="facebook_client_token">a5575bfecce5c1411a009bb58597106b</string>
+</resources>
